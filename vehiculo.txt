@@ -1,0 +1,2 @@
+id,marca,tipo,peso
+25,Volvo,1,20.00
